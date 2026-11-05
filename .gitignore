@@ -1,0 +1,10 @@
+# Archivos comprimidos
+*.zip
+
+# Sistema operativo
+.DS_Store
+._*
+Thumbs.db
+
+# Log del formulario de contacto (se genera en el servidor)
+mail/mail-log.php

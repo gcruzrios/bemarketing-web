@@ -1,0 +1,199 @@
+# BeMarketing
+
+> BeMarketing es una plataforma y partner digital de hospitalidad en Costa Rica: software + marketing para hoteles, restaurantes y cafeterías que quieren más reservas, mejor operación y menos fricción. Es una marca de Bemantis.
+
+El software es el núcleo de la oferta (reservas directas, gestión hotelera, gestión de restaurantes, pedidos y lealtad para cafeterías, automatización de atención por WhatsApp, integraciones y reportes) y el marketing es el amplificador (SEO y GEO local, Google Business Profile, redes sociales, fotografía, reputación online, diseño web y campañas de conversión en Google y Meta).
+
+- Sectores: hoteles boutique, hoteles y alojamientos, restaurantes, cafeterías, fincas y experiencias turísticas.
+- Certificaciones: Google Partner y Meta Business Partner.
+- Oferta actual: Programa Crecimiento 90 días — diagnóstico operativo y digital sin costo, implementación incluida y revisión de resultados al día 90.
+- Planes: Despegue, Crecimiento y Ecosistema 360 (cotización mensual a la medida).
+- Idiomas: español e inglés.
+- Contacto: hola@bemarketingcr.com · WhatsApp +506 7095-3464 · Teléfono +506 8492-5499 · Costa Rica
+- Marca matriz: Bemantis (https://bemantis.com)
+
+## Soluciones
+
+### Software para hoteles — https://bemarketingcr.com/software-hoteles
+Motor de reservas directas sin comisión (web y Google, con pago en línea), gestión de habitaciones (limpieza, mantenimiento, asignación), calendario de disponibilidad sincronizado con OTAs vía channel manager, pre check-in digital, CRM de huéspedes, mensajes automáticos (confirmación, pre-llegada, estadía, reseña post-salida), reportes ADR / RevPAR / ocupación / comisiones por canal y upselling de experiencias. Implementación típica: 2 semanas. Para hoteles boutique, lodges y alojamientos de 4 a 150 habitaciones; panel consolidado para grupos.
+
+### Software para restaurantes — https://bemarketingcr.com/software-restaurantes
+Reservas desde web, Google e Instagram con confirmación inmediata; plano de salón, turnos y lista de espera; menú digital con pedidos para llevar y QR en mesa; inventario y costeo de recetas; ventas por canal (salón, delivery, para llevar, eventos); promoción automática de días bajos; atención por WhatsApp 24/7; recordatorios y depósitos contra no-shows; reseñas y lealtad. Se integra con el POS existente.
+
+### Software para cafeterías — https://bemarketingcr.com/software-cafeterias
+Pedidos por adelantado con hora de retiro, menú QR con fotos, reservas de mesas para grupos, reuniones, catas y talleres; tarjeta de cliente frecuente digital (sin app; el 10.º café gratis), lista de WhatsApp con novedades y cumpleaños, inventario de leche, grano y repostería, ventas por producto y por hora, y tienda simple de café en grano con envío o retiro.
+
+### Automatización y atención
+Asistente entrenado con tarifas, políticas y menú del negocio que responde por WhatsApp, Instagram y web en segundos, cotiza, confirma reservas con enlace de pago, envía recordatorios y solicita reseñas; transfiere a una persona cuando hace falta (bandeja compartida).
+
+### Integraciones y reportes
+Conectores con PMS, channel manager, POS, pasarelas de pago y contabilidad. Tablero de ROI y operación, reporte semanal automático, accesos por rol y datos exportables (los datos son del cliente).
+
+### Marketing para hospitalidad (amplificador)
+SEO / GEO local (Google, Maps, ChatGPT, Perplexity), Google Business Profile, redes sociales, fotografía y video, reputación online (Google, TripAdvisor, Booking), diseño web ultra-rápido con motor de reservas, campañas de conversión en Google Ads y Meta Ads medidas hasta la reserva, automatización de reservas.
+
+### Desarrollo y soporte
+Desarrollos a la medida con respaldo técnico de Bemantis (portales para grupos, lealtad, integraciones especiales, tableros multi-sede), soporte por WhatsApp en español e inglés, capacitación en cada implementación y mejoras trimestrales.
+
+## Planes — https://bemarketingcr.com/planes
+
+- Despegue: motor de reservas, mesas o pedidos para recoger; asistente de WhatsApp 24/7; panel básico; Google Business Profile optimizado; flujo de reseñas.
+- Crecimiento (recomendado): todo Despegue + gestión completa de hotel, restaurante o cafetería; CRM y programa de cliente frecuente; sincronización con OTAs / POS; reportes semanales de ROI; SEO / GEO local; campañas de conversión; promoción de días bajos; reputación online.
+- Ecosistema 360: todo Crecimiento + inventario y costeo; integración contable y de pagos; panel multi-sede; desarrollos a la medida; redes sociales y fotografía; web a la medida; gerente de cuenta.
+
+Programa Crecimiento 90 días: semanas 1–2 diagnóstico y configuración; semanas 3–6 lanzamiento y conversión; semanas 7–12 optimización con datos; día 90 revisión de resultados contra la línea base.
+
+## Casos de éxito — https://bemarketingcr.com/casos-exito
+
+- Hotel boutique: +38% reservas directas, -22% comisiones pagadas a intermediarios, carga móvil menor a 1 segundo.
+- Restaurante: +142% reservas directas, +61% tráfico desde Google, calificación 4.9★ en Google (antes 4.3★).
+- Experiencias y tours: +54% reservas directas, +210% alcance en Instagram, #2 en Google para su categoría.
+- Tiempo de respuesta por WhatsApp: de 4 horas a 3 segundos.
+
+## Preguntas frecuentes (español)
+
+### Inicio (https://bemarketingcr.com/)
+
+**¿BeMarketing es una agencia o una empresa de software?**
+Las dos cosas, en ese orden: implementamos y operamos el software que ordena sus reservas, su operación y sus reportes, y lo amplificamos con marketing especializado en hospitalidad. Un solo equipo responsable de que lleguen más reservas y de que la operación las pueda atender bien.
+
+**¿Tengo que cambiar el sistema que ya uso?**
+No necesariamente. Si su PMS, POS o channel manager funciona, lo integramos y construimos encima. Si no existe o le está frenando, implementamos nuestra solución y migramos sus datos.
+
+**¿Cuánto tarda la implementación?**
+La mayoría de los negocios queda operando en 2 semanas: motor de reservas, asistente de WhatsApp y panel de indicadores. Integraciones más profundas (inventario, contabilidad, varias sedes) se planifican por fases.
+
+**¿Qué pasa con las reservas que hoy llegan por Booking, Expedia u otras plataformas?**
+Las seguimos recibiendo, sincronizadas para evitar sobreventas. El objetivo no es apagar canales, sino que una parte creciente de sus huéspedes reserve directo, sin comisión.
+
+**¿Cómo miden los resultados?**
+Con una línea base el día uno y un panel compartido: reservas directas vs. OTAs, comisiones pagadas, tiempo de respuesta, ocupación o cubiertos, ticket promedio y calificación. Datos reales, sin editar.
+
+
+### Software para hoteles (https://bemarketingcr.com/software-hoteles)
+
+**¿Funciona para hoteles pequeños o solo para cadenas?**
+Está pensado para hoteles boutique, lodges y alojamientos independientes de 4 a 150 habitaciones. Los grupos con varias propiedades reciben un panel consolidado.
+
+**¿Se sincroniza con Booking, Expedia y Airbnb?**
+Sí, mediante channel manager: disponibilidad y tarifas se actualizan en todos los canales para evitar sobreventas.
+
+**¿Puedo cobrar en línea?**
+Sí. El motor de reservas y el asistente de WhatsApp envían enlaces de pago o depósito con pasarelas locales e internacionales.
+
+
+### Software para restaurantes (https://bemarketingcr.com/software-restaurantes)
+
+**¿Sirve también para cafeterías?**
+Sí, y tienen su propia solución: pedidos para recoger, menú QR, mesas para grupos, tarjeta de cliente frecuente digital e inventario. Vea la página de Software para cafeterías.
+
+**¿Reemplaza mi POS?**
+Si su POS funciona, lo integramos para leer ventas por canal y producto. Si no tiene uno, le recomendamos e implementamos la opción adecuada.
+
+**¿Cómo reducen los no-shows?**
+Con confirmación y recordatorio automático por WhatsApp, opción de depósito para grupos y lista de espera que llena la mesa liberada.
+
+
+### Software para cafeterías (https://bemarketingcr.com/software-cafeterias)
+
+**¿Vale la pena un sistema para una cafetería pequeña?**
+Sí, sobre todo en lo local: pedidos para recoger, una tarjeta de cliente frecuente digital y una buena ficha en Google Maps cuestan poco frente a lo que aporta un cliente que vuelve cada semana. Empezamos solo con los módulos que aportan.
+
+**¿Necesito una app de lealtad?**
+No. Sus clientes no descargan nada: la tarjeta de sellos vive en WhatsApp o en el navegador y se suma automáticamente con cada compra.
+
+**¿Cómo funcionan los pedidos para recoger?**
+El cliente elige del menú QR o web, paga y escoge la hora. La barra recibe el pedido en una pantalla o tablet y el cliente recibe aviso por WhatsApp cuando está listo.
+
+**¿Pueden ayudarme a vender café en grano?**
+Sí. Activamos una tienda simple con envío o retiro, y trabajamos la historia del café (origen, finca, proceso) con fotografía y promoción en el local y en redes.
+
+**¿Sirve para reservar mesas?**
+Sí: mesas para grupos, reuniones de trabajo, catas y talleres, con confirmación y recordatorio automático por WhatsApp.
+
+
+### Planes y oferta (https://bemarketingcr.com/planes)
+
+**¿Por qué no publican precios?**
+Porque un lodge de 8 habitaciones y un restaurante con dos sedes necesitan módulos y volúmenes muy distintos. Después del diagnóstico recibe una propuesta cerrada, mensual y sin costos ocultos.
+
+**¿Puedo cambiar de plan?**
+Sí. La mayoría empieza en Despegue o Crecimiento y suma módulos cuando ve resultados.
+
+**¿Qué significa la revisión del día 90?**
+Acordamos indicadores y línea base al inicio. Si al día 90 no hay avance en esos indicadores, el mes siguiente de acompañamiento no tiene costo para usted.
+
+
+## Frequently asked questions (English)
+
+### Home (https://bemarketingcr.com/en/)
+
+**Is BeMarketing an agency or a software company?**
+Both, in that order: we implement and run the software that organizes your bookings, operations and reporting, then amplify it with hospitality-specialized marketing. One team accountable for bringing in more bookings and for operations that can serve them well.
+
+**Do I have to replace the system I already use?**
+Not necessarily. If your PMS, POS or channel manager works, we integrate it and build on top. If it doesn't exist or holds you back, we implement our solution and migrate your data.
+
+**How long does implementation take?**
+Most businesses are live within 2 weeks: booking engine, WhatsApp assistant and KPI dashboard. Deeper integrations (inventory, accounting, multiple locations) are planned in phases.
+
+**What about bookings that come through Booking, Expedia or other platforms today?**
+You keep receiving them, synced to avoid overbooking. The goal isn't to switch channels off, but to have a growing share of guests book direct, commission-free.
+
+**How do you measure results?**
+With a day-one baseline and a shared dashboard: direct vs. OTA bookings, commissions paid, response time, occupancy or covers, average ticket and rating. Real, unedited data.
+
+
+### Hotel software (https://bemarketingcr.com/en/hotel-software)
+
+**Does it work for small hotels or only chains?**
+It's designed for boutique hotels, lodges and independent properties from 4 to 150 rooms. Groups with several properties get a consolidated dashboard.
+
+**Does it sync with Booking, Expedia and Airbnb?**
+Yes, via a channel manager: availability and rates update across all channels to prevent overbooking.
+
+**Can I take payments online?**
+Yes. The booking engine and WhatsApp assistant send payment or deposit links through local and international gateways.
+
+
+### Restaurant software (https://bemarketingcr.com/en/restaurant-software)
+
+**Does it work for cafés too?**
+Yes, and they have their own solution: order-ahead pick-up, QR menu, group tables, a digital loyalty card and inventory. See the Café software page.
+
+**Does it replace my POS?**
+If your POS works, we integrate it to read sales by channel and product. If you don't have one, we recommend and implement the right option.
+
+**How do you reduce no-shows?**
+With automatic WhatsApp confirmations and reminders, deposits for groups and a waitlist that fills released tables.
+
+
+### Café software (https://bemarketingcr.com/en/cafe-software)
+
+**Is a system worth it for a small café?**
+Yes, especially locally: pick-up orders, a digital loyalty card and a strong Google Maps profile cost little compared with a customer who comes back every week. We start with only the modules that add value.
+
+**Do I need a loyalty app?**
+No. Your customers don't download anything: the stamp card lives in WhatsApp or the browser and adds up automatically with each purchase.
+
+**How do pick-up orders work?**
+Customers choose from the QR or web menu, pay and pick a time. The bar gets the order on a screen or tablet and the customer gets a WhatsApp notice when it's ready.
+
+**Can you help me sell whole-bean coffee?**
+Yes. We set up a simple shop with delivery or pick-up, and tell the coffee's story (origin, farm, process) with photography and promotion in-store and on social.
+
+**Can it take table bookings?**
+Yes: tables for groups, work meetings, tastings and workshops, with automatic WhatsApp confirmation and reminders.
+
+
+### Plans & offer (https://bemarketingcr.com/en/plans)
+
+**Why don't you publish prices?**
+Because an 8-room lodge and a two-location restaurant need very different modules and volumes. After the assessment you get a fixed, monthly proposal with no hidden costs.
+
+**Can I change plans?**
+Yes. Most start on Launch or Growth and add modules once they see results.
+
+**What does the day-90 review mean?**
+We agree on KPIs and a baseline at the start. If those KPIs haven't moved by day 90, the following month of support is free of charge.
+

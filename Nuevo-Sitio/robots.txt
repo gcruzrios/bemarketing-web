@@ -1,0 +1,62 @@
+User-agent: *
+Allow: /
+Disallow: /mail/
+
+# Motores de respuesta por IA (GEO) — permitidos explícitamente
+User-agent: GPTBot
+Allow: /
+Disallow: /mail/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /mail/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /mail/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /mail/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /mail/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /mail/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /mail/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /mail/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /mail/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /mail/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /mail/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /mail/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /mail/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /mail/
+
+Sitemap: https://bemarketingcr.com/sitemap.xml

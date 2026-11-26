@@ -19,4 +19,4 @@ Reglas de mantenimiento:
 - Un tema por archivo, texto plano en español, sin tablas anchas ni HTML (el asistente lo lee tal cual).
 - No inventar precios, plazos ni integraciones. Si un dato no está confirmado, va en la sección "No confirmado" de la ficha.
 - Al cambiar el sitio web, actualizar la ficha correspondiente y subirla a `/kb/`.
-- Última actualización general: 2026-11-24.
+- Última actualización general: 2026-11-26.

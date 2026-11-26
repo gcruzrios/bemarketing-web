@@ -1,0 +1,81 @@
+# =========================================================
+# BeMarketing — nuevo sitio (software + marketing para hospitalidad)
+# Requiere Apache con mod_rewrite. Generado por generar-nuevo-sitio.py
+# =========================================================
+
+Options -MultiViews -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8
+AddType application/manifest+json .webmanifest
+AddType text/plain .txt
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+# 0) (Opcional) Forzar HTTPS — descomentar si el hosting no lo hace ya
+# RewriteCond %{HTTPS} off
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L,NE]
+
+# 1) Páginas del sitio anterior → equivalentes nuevas (301, conserva el SEO ganado)
+RewriteRule ^servicios(\.html)?/?$ /soluciones [R=301,L,NE]
+RewriteRule ^nosotros(\.html)?/?$ / [R=301,L,NE]
+RewriteRule ^social-media(\.html)?/?$ /soluciones#marketing [R=301,L,NE]
+RewriteRule ^marketing-digital-hoteles(\.html)?/?$ /software-hoteles [R=301,L,NE]
+RewriteRule ^marketing-digital-restaurantes(\.html)?/?$ /software-restaurantes [R=301,L,NE]
+RewriteRule ^marketing-digital-cafeterias(\.html)?/?$ /software-cafeterias [R=301,L,NE]
+RewriteRule ^en/services(\.html)?/?$ /en/solutions [R=301,L,NE]
+RewriteRule ^en/about-us(\.html)?/?$ /en/ [R=301,L,NE]
+RewriteRule ^en/social-media(\.html)?/?$ /en/solutions#marketing [R=301,L,NE]
+RewriteRule ^en/hotel-digital-marketing(\.html)?/?$ /en/hotel-software [R=301,L,NE]
+RewriteRule ^en/restaurant-digital-marketing(\.html)?/?$ /en/restaurant-software [R=301,L,NE]
+RewriteRule ^en/cafe-digital-marketing(\.html)?/?$ /en/cafe-software [R=301,L,NE]
+
+# 2) /index.html (o /carpeta/index.html) → /
+RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ /%1 [R=301,L,NE]
+
+# 3) /pagina.html → /pagina (301). THE_REQUEST evita bucles con la regla 5.
+RewriteCond %{THE_REQUEST} \s/+([^?\s]+)\.html[\s?] [NC]
+RewriteCond %{THE_REQUEST} !\s/+404\.html [NC]
+RewriteRule ^ /%1 [R=301,L,NE]
+
+# 4) Quitar la barra final en páginas (/soluciones/ → /soluciones)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+# 5) /pagina → sirve pagina.html sin cambiar la URL visible
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^(.+?)/?$ $1.html [L]
+</IfModule>
+
+# Compresión
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript application/json application/xml application/manifest+json image/svg+xml
+</IfModule>
+
+# Caché del navegador
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 1 hour"
+ExpiresByType text/html "access plus 0 seconds"
+ExpiresByType text/css "access plus 7 days"
+ExpiresByType application/javascript "access plus 7 days"
+ExpiresByType image/jpeg "access plus 30 days"
+ExpiresByType image/png "access plus 30 days"
+ExpiresByType image/webp "access plus 30 days"
+ExpiresByType image/x-icon "access plus 30 days"
+ExpiresByType application/xml "access plus 1 hour"
+ExpiresByType text/plain "access plus 1 hour"
+</IfModule>
+
+# Cabeceras de seguridad básicas
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>

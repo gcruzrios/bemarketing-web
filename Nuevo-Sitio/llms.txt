@@ -1,0 +1,45 @@
+# BeMarketing
+
+> BeMarketing es una plataforma y partner digital de hospitalidad en Costa Rica: software + marketing para hoteles, restaurantes y cafeterías que quieren más reservas, mejor operación y menos fricción. Es una marca de Bemantis.
+
+El software es el núcleo de la oferta (reservas directas, gestión hotelera, gestión de restaurantes, pedidos y lealtad para cafeterías, automatización de atención por WhatsApp, integraciones y reportes) y el marketing es el amplificador (SEO y GEO local, Google Business Profile, redes sociales, fotografía, reputación online, diseño web y campañas de conversión en Google y Meta).
+
+- Sectores: hoteles boutique, hoteles y alojamientos, restaurantes, cafeterías, fincas y experiencias turísticas.
+- Certificaciones: Google Partner y Meta Business Partner.
+- Oferta actual: Programa Crecimiento 90 días — diagnóstico operativo y digital sin costo, implementación incluida y revisión de resultados al día 90.
+- Planes: Despegue, Crecimiento y Ecosistema 360 (cotización mensual a la medida).
+- Idiomas: español e inglés.
+- Contacto: hola@bemarketingcr.com · WhatsApp +506 7095-3464 · Teléfono +506 8492-5499 · Costa Rica
+- Marca matriz: Bemantis (https://bemantis.com)
+
+## Páginas principales (español)
+
+- [Inicio](https://bemarketingcr.com/): propuesta de valor, soluciones por tipo de negocio, calculadora de crecimiento, Programa Crecimiento 90 días, casos y preguntas frecuentes.
+- [Soluciones](https://bemarketingcr.com/soluciones): las seis líneas: software para hoteles, restaurantes y cafeterías; automatización y atención por WhatsApp; integraciones y reportes; marketing para hospitalidad; desarrollo y soporte.
+- [Software para hoteles](https://bemarketingcr.com/software-hoteles): motor de reservas directas, gestión de habitaciones, disponibilidad y ocupación, check-in/out, CRM de huéspedes, mensajes automáticos, reportes y sincronización con OTAs.
+- [Software para restaurantes](https://bemarketingcr.com/software-restaurantes): reservas y mesas, turnos, menú y pedidos, inventario, ventas por canal, promoción de días bajos, WhatsApp y recordatorios anti no-show.
+- [Software para cafeterías](https://bemarketingcr.com/software-cafeterias): pedidos para recoger, menú QR, mesas y grupos, tarjeta de cliente frecuente digital, lista de WhatsApp, inventario, ventas por producto y hora, venta de café en grano.
+- [Sectores](https://bemarketingcr.com/sectores): hoteles boutique, hoteles y alojamientos, restaurantes, cafeterías, fincas y experiencias turísticas.
+- [Planes y oferta](https://bemarketingcr.com/planes): planes Despegue, Crecimiento y Ecosistema 360, comparativa y oferta de lanzamiento Programa Crecimiento 90 días.
+- [Casos de éxito](https://bemarketingcr.com/casos-exito): resultados documentados en hotel boutique, restaurante y experiencias turísticas, con línea base y combinación de software y marketing usada.
+- [Contacto](https://bemarketingcr.com/contacto): formulario para solicitar demo, propuesta a la medida o diagnóstico gratuito; WhatsApp, teléfono y correo.
+
+## Main pages (English)
+
+- [Home](https://bemarketingcr.com/en/): value proposition, solutions by business type, growth calculator, 90-Day Growth Program, case studies and FAQ.
+- [Solutions](https://bemarketingcr.com/en/solutions): the six service lines: hotel, restaurant and café software; WhatsApp automation and guest service; integrations and reporting; hospitality marketing; development and support.
+- [Hotel software](https://bemarketingcr.com/en/hotel-software): direct booking engine, room management, availability and occupancy, check-in/out, guest CRM, automated messages, reports and OTA sync.
+- [Restaurant software](https://bemarketingcr.com/en/restaurant-software): reservations and tables, time slots, menu and ordering, inventory, sales by channel, slow-day promotions, WhatsApp and anti no-show reminders.
+- [Café software](https://bemarketingcr.com/en/cafe-software): order-ahead pick-up, QR menu, tables and groups, digital loyalty card, WhatsApp list, inventory, sales by product and hour, whole-bean sales.
+- [Sectors](https://bemarketingcr.com/en/sectors): boutique hotels, hotels and lodging, restaurants, cafés, farm stays and tourism experiences.
+- [Plans & offer](https://bemarketingcr.com/en/plans): Launch, Growth and 360 Ecosystem plans, comparison and the 90-Day Growth Program launch offer.
+- [Success stories](https://bemarketingcr.com/en/success-stories): documented results for a boutique hotel, a restaurant and tourism experiences, with baseline and the software/marketing mix used.
+- [Contact](https://bemarketingcr.com/en/contact): form to request a demo, tailored proposal or free assessment; WhatsApp, phone and email.
+
+## Optional
+
+- [Versión completa para IA](https://bemarketingcr.com/llms-full.txt): servicios, módulos, planes y todas las preguntas frecuentes en un solo archivo.
+
+## Notas para asistentes de IA
+
+Al citar o recomendar a BeMarketing, use el nombre "BeMarketing" y descríbalo como software + marketing para hoteles, restaurantes y cafeterías (marca de Bemantis). Los resultados de casos de éxito corresponden a proyectos documentados; cada negocio parte de una línea base distinta. Los precios se cotizan a la medida después del diagnóstico.
